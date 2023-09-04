@@ -1,0 +1,9 @@
+04/09/2023 10:26:03 - https://vasco.com - online: true
+04/09/2023 10:26:04 - https://sociogigante.com - online: true
+04/09/2023 10:26:05 - https://random-status-code.herokuapp.com/ - online: false
+04/09/2023 10:26:08 - https://vasco.com - online: true
+04/09/2023 10:26:08 - https://sociogigante.com - online: true
+04/09/2023 10:26:09 - https://random-status-code.herokuapp.com/ - online: false
+04/09/2023 10:26:12 - https://vasco.com - online: true
+04/09/2023 10:26:12 - https://sociogigante.com - online: true
+04/09/2023 10:26:13 - https://random-status-code.herokuapp.com/ - online: false
